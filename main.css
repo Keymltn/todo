@@ -79,6 +79,10 @@ a{
     display: flex;
 }
 
+.yes{
+    display: block;
+}
+
 .box4{
     width: 300px;
     height: 200px;
